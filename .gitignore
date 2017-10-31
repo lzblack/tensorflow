@@ -22,3 +22,6 @@ Pods
 Podfile.lock
 *.pbxproj
 *.xcworkspacedata
+.tar.gz
+/notMNIST_large/
+*.pickle
